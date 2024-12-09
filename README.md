@@ -1,8 +1,11 @@
 Expense Control
 
 O Expense Control é um sistema desenvolvido como parte de um teste para processo de estágio. Ele atua como um gerenciador de despesas e receitas, fornecendo um dashboard intuitivo que apresenta os seguintes indicadores:
+
   .Total de receitas.
+  
   .Total de despesas.
+  
   .Saldo final.
   
 Funcionalidades Principais
