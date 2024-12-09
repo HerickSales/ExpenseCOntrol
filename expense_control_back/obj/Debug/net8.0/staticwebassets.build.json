@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YB7HyLsAjNkhFIqCZ16qrGmnp/YpgdfUatFo74NboJ4=",
+  "Source": "expense_control_back",
+  "BasePath": "_content/expense_control_back",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
