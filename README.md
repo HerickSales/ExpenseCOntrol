@@ -8,12 +8,14 @@ O Expense Control é um sistema desenvolvido como parte de um teste para process
   
   .Saldo final.
   
-Funcionalidades Principais
+Funcionalidades Principais:
+
   .Login e autenticação de usuários.
+  
   .Cadastro, exclusão e edição de:
-    Pessoas.
-    Transações (receitas e despesas).
-    Usuários.
+  
+      Pessoas, Transações (receitas e despesas) e  Usuários.
+      
  .Visualização consolidada de totais no dashboard.
 
  
